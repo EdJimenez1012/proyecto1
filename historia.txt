@@ -9,3 +9,5 @@ Hoy hablaremos de su historia.
 Edwin mide 1.72 metros y pesa 60 kilogramos.
 
 Hoy quiere ser programador y está estudiando en Platzi.
+
+Este archivo es una de sus pruebas para el curso de Git y GitHub.
