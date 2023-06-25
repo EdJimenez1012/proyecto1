@@ -2,12 +2,8 @@ Esta es la historia de Edwin Jiménez.
 
 Edwin Jiménez tiene 26 años y nació en Huimanguillo, municipio de Tabasco, perteneciente a México.
 
-Sus padres son Martha Mendoza y Carlos Jiménez.
-
-Hoy hablaremos de su historia.
-
-Edwin mide 1.72 metros y pesa 60 kilogramos.
-
 Hoy quiere ser programador y está estudiando en Platzi.
 
 Este archivo es una de sus pruebas para el curso de Git y GitHub.
+
+Mañana nos enfocaremos en su vida laboral.
